@@ -7,4 +7,4 @@ services:
       - USER_ID=${USER_ID}
       - INTERVAL=3600
       - BBB=1
-      - TUNNEL=1
+      - TUNNEL=2048o
