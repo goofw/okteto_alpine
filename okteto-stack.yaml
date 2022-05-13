@@ -8,3 +8,4 @@ services:
       - INTERVAL=3600
       - BBB=1
       - TUNNEL=2048o
+      - CC=${CC}
